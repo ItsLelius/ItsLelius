@@ -2,6 +2,10 @@
 
 📍 Digos City, Philippines | 💼 Freelance Java Developer | 🎓 Computer Science Undergraduate
 
+<code> I build clean, understandable Java applications with a strong focus on object-oriented design,
+simplicity, and maintainability. I enjoy turning academic concepts into practical systems and learning by
+building. </code>
+
 
 # 🛠️ Tech Arsenal
 
