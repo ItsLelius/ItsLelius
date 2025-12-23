@@ -1,6 +1,6 @@
 # 👋 I'm Lelius (@Adii)
 
-📍 Digos City, Philippines | 💼 Freelance Multi-Platform Developer | 🎓 Computer Science Undergraduate
+📍 Digos City, Philippines | 💼 Freelance Java Developer | 🎓 Computer Science Undergraduate
 
 
 # 🛠️ Tech Arsenal
