@@ -4,7 +4,7 @@
 
 <code>  I build production-ready Java applications focused on clean architecture,
 object-oriented design, and maintainable code. I help clients transform
-ideas and requirements into practical systems.</code>
+ideas and requirements into practical systems.</code> <br><br> <br><br>
 
 
 # < >👨🏻‍💻Tech Stack</>
