@@ -27,4 +27,6 @@ ideas and requirements into practical systems.</code>
 ---
 [![](https://visitcount.itsvg.in/api?id=ItsLelius&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Lelius E. Lawas profile views](https://u8views.com/api/v1/github/profiles/168876631/views/day-week-month-total-count.svg)](https://u8views.com/github/ItsLelius)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
