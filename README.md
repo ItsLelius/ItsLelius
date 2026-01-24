@@ -80,16 +80,22 @@ const lelius = {
 </div>
 
 <div align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsLelius&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8" alt="GitHub Streak Stats" height="180"/>
-
-<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsLelius&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLelius&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsLelius&custom_title=Contribution%20Activity&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c9d1d9&area_color=6366f1&area=true&hide_border=true&radius=8" width="95%" alt="Contribution Graph"/>
-</div>
+---
+
+## 🎓 Background
+
+**Bachelor of Science in Computer Science**  
+*Cor Jesu College, Inc., Digos City, Philippines*
+
+**Certifications:**
+- Responsive Web Design (HTML, CSS, Flexbox, CSS Grid) - freeCodeCamp 2026
+- Programiz Java Course - 2025
+
 
 ---
 
