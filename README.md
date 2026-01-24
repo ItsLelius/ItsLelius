@@ -23,13 +23,13 @@
 ### About Me
 
 ```typescript
-const cedrick = {
+const lelius = {
   role: "Web Developer",
   goal: "Software Engineer",
   location: "Digos City, Philippines",
   education: "BS Computer Science",
   learning: ["PostgreSQL", "Express.js", "React", "Node.js"],
-  project: "QuizMate-AI"
+  project: "QuizMate-AI(Ongoing)"
 };
 ```
 ---
@@ -42,26 +42,31 @@ const cedrick = {
 
 <div align="center">
 
-**Languages**
+**Languages & Frameworks**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  
 
 **Databases & Backend**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+ <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+ 
 
-**Development Tools**
+**Development Tools & Platforms**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
 
 
 </div>
@@ -75,7 +80,11 @@ const cedrick = {
 </div>
 
 <div align="center">
+
   <img src="https://nirzak-streak-stats.vercel.app/?user=ItsLelius&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8" alt="GitHub Streak Stats" height="180"/>
+
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLelius&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -95,6 +104,10 @@ const cedrick = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](#)
 
 </div>
+
+
+
+
 
 ---
 
