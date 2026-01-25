@@ -87,6 +87,14 @@ const lelius = {
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ItsLelius&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ItsLelius&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true&bg_color=ffffff">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsLelius&color=3B82F6&line=3B82F6&area=true" width="100%" alt="Cursed Energy Tracker">
+</picture>
+
+---
+
 ##  Background
 
 **Bachelor of Science in Computer Science**  
