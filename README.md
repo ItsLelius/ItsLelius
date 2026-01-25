@@ -20,7 +20,7 @@
 
 ---
 
-### About Me
+## About Me
 
 ```typescript
 const lelius = {
@@ -36,7 +36,7 @@ const lelius = {
 
 <div align="center">
 
-### Technical Stack
+## Technical Stack
 
 </div>
 
@@ -75,7 +75,7 @@ const lelius = {
 
 <div align="center">
 
-### GitHub Statistics
+## GitHub Statistics
 
 </div>
 
@@ -87,7 +87,7 @@ const lelius = {
 
 ---
 
-## 🎓 Background
+##  Background
 
 **Bachelor of Science in Computer Science**  
 *Cor Jesu College, Inc., Digos City, Philippines*
@@ -101,13 +101,15 @@ const lelius = {
 
 <div align="center">
 
-### Connect With Me
+##  Let's Connect!
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelius-lawas-786967338/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leliuslawas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsLelius)
 
-[![Gmail](https://img.shields.io/badge/Email-leliuslawas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leliuslawas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@ItsLelius-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ItsLelius)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](#)
+**📧 Email:** leliuslawas@gmail.com <br>
+**📱 Phone:** +63 930 421 8155 <br>
+**🌐 Portfolio:** [Deploying Soon!]
 
 </div>
 
