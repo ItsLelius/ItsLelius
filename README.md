@@ -51,6 +51,8 @@ const lelius = {
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   
 
 **Databases & Backend**
@@ -75,19 +77,6 @@ const lelius = {
 
 ---
 
-<div align="center">
-
-## GitHub Statistics
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsLelius&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLelius&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ItsLelius&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&bg_color=00000000">
