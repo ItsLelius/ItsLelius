@@ -42,7 +42,7 @@ const lelius = {
 
 <div align="center">
 
-**Languages & Frameworks**
+**Frontend**
 
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
