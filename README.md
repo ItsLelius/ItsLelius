@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## About Me:
 
 ```typescript
 const lelius = {
@@ -29,49 +29,49 @@ const lelius = {
   location: "Digos City, Philippines",
   education: "BS Computer Science",
   learning: ["PostgreSQL", "Express.js", "React", "Node.js"],
-  project: "QuizMate-AI(Ongoing)"
+  project: "ToolBase(Ongoing)"
 };
 ```
 ---
 
-<div align="center">
 
-## Technical Stack
 
-</div>
+## Technical Stack:
+
+
 
 <div align="center">
 
 **Frontend**
 
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  /> <br>
+ 
+<br>
 
 **Databases & Backend**
 
  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  /> <br>
  
+<br>
 
 **Development Tools & Platforms**
 
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
 
 
@@ -88,7 +88,7 @@ const lelius = {
 
 ---
 
-##  Background
+##  Background:
 
 **Bachelor of Science in Computer Science**  
 *Cor Jesu College, Inc., Digos City, Philippines*
