@@ -53,6 +53,8 @@ const lelius = {
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   
 
 **Databases & Backend**
@@ -70,7 +72,7 @@ const lelius = {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
 
 
 </div>
