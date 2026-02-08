@@ -44,35 +44,35 @@ const lelius = {
 
 **Frontend**
 
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  /> <br>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> <br>
  
 <br>
 
 **Databases & Backend**
 
- <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+ <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  /> <br>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> <br>
  
 <br>
 
 **Development Tools & Platforms**
 
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 
 
 </div>
