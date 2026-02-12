@@ -58,9 +58,12 @@ const lelius = {
 
 **Databases & Backend**
 
- <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> <br>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> 
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  /> 
+  <br>
  
 <br>
 
@@ -73,7 +76,7 @@ const lelius = {
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-
+  
 
 </div>
 
