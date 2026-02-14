@@ -55,8 +55,7 @@ const lelius = {
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  /> 
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> <br>
+  
  
 <br>
 
@@ -81,7 +80,11 @@ const lelius = {
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="3" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> <br>
   
   
 
