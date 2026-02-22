@@ -53,9 +53,6 @@ const lelius = {
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  /><br> 
-  
  
 <br>
 
