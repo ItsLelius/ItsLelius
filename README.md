@@ -121,7 +121,7 @@ const lelius = {
 
 **📧 Email:** leliuslawas@gmail.com <br>
 **📱 Phone:** +63 930 421 8155 <br>
-**🌐 Portfolio:** [Deploying Soon!]
+**🌐 Portfolio:** leliuslawas.vercel.app
 
 </div>
 
