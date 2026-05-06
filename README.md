@@ -40,53 +40,38 @@ const lelius = {
 
 
 
-<div align="center">
 
-**Frontend**
+**Languages, Frameworks & Runtime**
 
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  
-<br>
 
-**Databases & Backend**
+**Databases & Server Tools**
 
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> 
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /> 
-  <br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
  
-<br>
 
-**Development Tools & Platforms**
+**AI & API's**
 
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> <br>
-  
-  
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-</div>
+
+**Development Tools & Hosting**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -121,11 +106,9 @@ const lelius = {
 
 **📧 Email:** leliuslawas@gmail.com <br>
 **📱 Phone:** +63 930 421 8155 <br>
-**🌐 Portfolio:** leliuslawas.vercel.app
+**🌐 Portfolio:** lelius.vercel.app
 
 </div>
-
-
 
 
 
