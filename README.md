@@ -29,7 +29,7 @@ const lelius = {
   location: "Digos City, Philippines",
   education: "BS Computer Science",
   learning: ["PostgreSQL", "Express.js", "React", "Node.js"],
-  project: ["FramizzL", "ScholarMap"]
+  project: ["Framizz", "ScholarMap"]
 };
 ```
 ---
